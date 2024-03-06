@@ -3,7 +3,7 @@ def isPalindrome(s):
 
 
 # code
-s = "malayalam"
+s = "abba"
 ans = isPalindrome(s)
 
 if ans:
