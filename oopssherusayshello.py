@@ -5,5 +5,5 @@ class Animal:
     def speak(self):
         return f"{self.name} says hello!"
 
-dog = Animal("Charlie")
+dog = Animal("Sheru")
 print(dog.speak())
